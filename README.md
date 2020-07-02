@@ -1,6 +1,10 @@
-# DustoreApp
+# Codicate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
+
+## node modules
+
+Run 'npm install' and install all node packages.
 
 ## Development server
 
