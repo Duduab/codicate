@@ -1,0 +1,53 @@
+.container {
+  background-image: url("../../assets/contact-us-image-background-3-x.jpg");
+  height: 359px;
+  object-fit: contain;
+  margin-top: 230px;
+}
+
+.main-container {
+  text-align: center;
+  position: relative;
+  top: 25%;}
+
+.title {
+  font-size: 40px;
+  margin: 0 auto;
+  width: 800px;
+  text-transform: uppercase;
+  height: 27px;
+  color: #cccccc;
+  opacity: 0.8;
+  background-image: linear-gradient(to right, var(--secdoblue) 80%, rgba(8, 8, 10, 0) 114%);
+}
+
+.title .sub-text {
+  width: 520px;
+  height: 28px;
+  text-transform: none;
+  font-family: "MerriweatherSans", sans-serif;
+  font-size: 15px;
+  margin: 0 auto;
+}
+
+.contact-btn {
+  margin-top: 116px;
+  width: 170px;
+  height: 44px;
+  border-radius: 100px;
+  border: solid 1px #e65149;
+  background-image: linear-gradient(to bottom, #ff5151, #f84f4f);
+}
+
+.contact-btn label {
+  width: 97px;
+  height: 20px;
+  font-family: 'MerriweatherSans' , sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1.54;
+  letter-spacing: 1.3px;
+  text-align: center;
+  color: white;
+}

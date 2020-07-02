@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Rajdhani";
+  src: url("../assets/fonts/Rajdhani/rajdhani-light-webfont.woff");
+  src: url("../assets/fonts/Rajdhani/rajdhani-light-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Merriweathersans";
+  src: url("../assets/fonts/Merriweathersans/merriweathersans-regular-webfont.woff");
+  src: url("../assets/fonts/Merriweathersans/merriweathersans-regular-webfont.woff") format("woff");
+}
+
+.toolbar {
+  position: initial;
+  margin: 0 3px;
+  margin-left: 66%;
+}
+
+.mat-toolbar.mat-primary {
+  background: #191a3b;
+  color: #fff;
+  height: 529px;
+  font-family: 'Merriweathersans' , sans-serif;
+}
+
+a {
+  margin-top: 13%;
+}
+
+ .demo-btn {
+   width: 142px;
+   height: 36px;
+   border-radius: 100px;
+   border: solid 1px #e65149;
+   background-image: linear-gradient(to bottom, #ff5151, #f84f4f);
+   font-family: 'Merriweathersans' , sans-serif;
+   font-size: 12px;
+   text-transform: uppercase;
+   color: var(--white);
+   margin-top: 55px;
+ }
+
+ .Resources {
+   font-size: 60px;
+   margin: 0 auto;
+   margin-top: 15%;
+   width: 298px;
+   height: 70px;
+   font-family: 'Rajdhani', sans-serif;
+   font-size: 60px;
+   font-weight: normal;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: 1.17;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   color: var(--white);
+ }

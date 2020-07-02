@@ -1,0 +1,53 @@
+.container {
+  display:flex;
+  height: 35%;
+  background-color:#f8f9ff;
+  margin: 0 auto !important;
+}
+
+.mainCards {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.example-card {
+  max-width: 276px;
+  margin: 0 20px;
+  width: 276px;
+  height: 340px;
+  margin-top: -163px;
+}
+
+
+.mat-card-header .mat-card-title {
+  margin-bottom: 25px;
+}
+
+ .mat-card-image {
+  border-top: 6.8px solid #4e80f5;
+   margin-top: -15px;
+}
+
+hr {
+  background-color: #dce6fd;
+  width: 231.1px;
+  border: solid 1.4px #dce6fd;
+}
+
+h1 {
+  color: #4e80f5;
+  height: 20px;
+  font-family: 'Rajdhani' , sans-serif;
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  font-weight: 600;
+}
+
+.sub-title {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+}
