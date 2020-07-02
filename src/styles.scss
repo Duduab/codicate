@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: "Rajdhani", sans-serif; }
+
+.logo {
+  width: 90px;
+  filter: brightness(0) invert(1);
+  position: absolute;
+  left: 26px;
+  margin: 84px 47px;
+}
+
